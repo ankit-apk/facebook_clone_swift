@@ -14,6 +14,7 @@
 		BC8799D228781F7200B1660F /* Facebook_Clone.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BC8799D028781F7200B1660F /* Facebook_Clone.xcdatamodeld */; };
 		BC8799D428781F7500B1660F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC8799D328781F7500B1660F /* Assets.xcassets */; };
 		BC8799D728781F7500B1660F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC8799D528781F7500B1660F /* LaunchScreen.storyboard */; };
+		BCF2737628793D2100BF2606 /* InstagramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCF2737528793D2100BF2606 /* InstagramViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BC8799D328781F7500B1660F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC8799D628781F7500B1660F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC8799D828781F7500B1660F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCF2737528793D2100BF2606 /* InstagramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				BC8799D528781F7500B1660F /* LaunchScreen.storyboard */,
 				BC8799D828781F7500B1660F /* Info.plist */,
 				BC8799D028781F7200B1660F /* Facebook_Clone.xcdatamodeld */,
+				BCF2737528793D2100BF2606 /* InstagramViewController.swift */,
 			);
 			path = "Facebook Clone";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				BC8799CC28781F7200B1660F /* ViewController.swift in Sources */,
 				BC8799D228781F7200B1660F /* Facebook_Clone.xcdatamodeld in Sources */,
+				BCF2737628793D2100BF2606 /* InstagramViewController.swift in Sources */,
 				BC8799C828781F7200B1660F /* AppDelegate.swift in Sources */,
 				BC8799CA28781F7200B1660F /* SceneDelegate.swift in Sources */,
 			);
